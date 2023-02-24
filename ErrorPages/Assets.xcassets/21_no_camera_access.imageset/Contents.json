@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "21_no_camera_access.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

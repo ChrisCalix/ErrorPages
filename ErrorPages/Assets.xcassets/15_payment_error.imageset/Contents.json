@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "15_payment_error.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
